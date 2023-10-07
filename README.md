@@ -1,6 +1,6 @@
 # Projeto_Python_MediPortal
 
-DESCRIÇÃO
+# DESCRIÇÃO
 
   O Medi Portal é uma inovadora aplicação projetada especificamente para profissionais da saúde que possuem habilidades limitadas em informática. Esta plataforma foi desenvolvida para simplificar e agilizar o processo de atendimento médico, proporcionando uma maneira mais eficaz de acessar e gerenciar os prontuários dos pacientes.
 
@@ -8,7 +8,7 @@ DESCRIÇÃO
 
   Com o Medi Portal, os profissionais de saúde podem contar com uma ferramenta que simplifica o fluxo de trabalho, permitindo-lhes concentrar-se no que realmente importa: a prestação de cuidados de alta qualidade aos pacientes. Esta aplicação é um valioso recurso para todos os envolvidos na área da saúde, tornando a gestão de informações médicas mais acessível e eficaz do que nunca.
 
- REQUISITOS FUNCIONAIS 
+ # REQUISITOS FUNCIONAIS 
  
 1.	Tarefa Interativas e Desafios Práticos:
    
@@ -43,7 +43,7 @@ DESCRIÇÃO
  • Implementar um calendário de atendimento que permita aos usuários definir consultas agendadas diárias ou semanais;<br> 
  • Enviar lembretes aos profissionais para lembrá-los de seus compromissos ou pacientes que necessitam de mais atenção.
 
-REQUISITOS NÃO FUNCIONAIS
+# REQUISITOS NÃO FUNCIONAIS
 
    •	Performance: A aplicação deve ser responsiva, minimizando a latência durante a execução do atendimento;<br> 
    •	Usabilidade: A interface deve ser intuitiva e fácil de usar, especialmente para iniciantes;<br> 
@@ -52,7 +52,7 @@ REQUISITOS NÃO FUNCIONAIS
     lugar (hospitais e postos de saúde) em geral;<br> 
    • Compatibilidade: Funcionar em diversos navegadores e sistemas operacionais.
     
-  COMO RODAR A APLICAÇÃO
+  # COMO RODAR A APLICAÇÃO
 
   1.	Clone este repositório para o seu ambiente local.
   2.	Certifique-se de ter o MediPortal instalado em sua máquina.
@@ -60,7 +60,7 @@ REQUISITOS NÃO FUNCIONAIS
   4.	Navegue no App para se familiarizar ou vai em duvidas para assistir um vídeos explicativo.
   5.	Uma interface será executada e é só começar a utilizar o MediPortal.
      
-LICENÇA
+# LICENÇA
 
  Este projeto está sob a licença https://exemplo.com/licenca.
     
