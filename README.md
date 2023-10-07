@@ -52,7 +52,7 @@
     lugar (hospitais e postos de saúde) em geral;<br> 
    • Compatibilidade: Funcionar em diversos navegadores e sistemas operacionais.
     
-  # COMO RODAR A APLICAÇÃO
+# COMO RODAR A APLICAÇÃO
 
   1.	Clone este repositório para o seu ambiente local.
   2.	Certifique-se de ter o MediPortal instalado em sua máquina.
@@ -80,7 +80,7 @@
 
 
 
- <br> Checkout Funcional criado no App Inventor:
+ <br> **Checkout Funcional criado no App Inventor:**
 
 1) Vemos na imagem abaixo a tela inicial que contém cadastro e login. 
   
@@ -99,7 +99,7 @@
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/7dd24199-c2bd-460e-b9ce-e9e262607f95" width="30%">
 
 
- <br> Blocos criado no App Inventor:
+ <br> **Blocos criado no App Inventor:**
 
 1) Tela Inicial
    
@@ -119,7 +119,7 @@
 
 
 
- <br> Código criado no Thommy:
+ <br> **Código criado no Thommy:**
 
 1) Cadastro e Login
           
@@ -178,7 +178,7 @@
 			    app.run('0.0.0.0', port=5000)
 
    
-<br> Como contribuir?
+<br> **Como contribuir?**
 
 Esse projeto está aberto para contribuições e Inovações que melhore o desenvolvimento para os usuário da área de saúde.
 
