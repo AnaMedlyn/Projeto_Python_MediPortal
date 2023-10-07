@@ -107,46 +107,71 @@ LICENÇA
 
 2) Cadastro
 
-<img src="#" width="50%">
+<img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/d58fa894-a8e0-47ab-9019-17710b3be786" width="80%">
 
 3) Login
-<img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/dd92e3cd-a24f-414e-95b7-6ab9b19352fd" width="60%">
+<img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/85eaba95-3a39-498a-bebf-755cbfd949da" width="80%">
 
 
  <br> Código criado no Thommy:
 
-1) Cadastro
+1) Cadastro e Login
+          
+			from flask import Flask, request, render_template
+			
+			app = Flask(_name_)
+			
+			//Dicionário de usuários e senhas
+			usuarios = []
+			
+			
+			def buscarUsuario (username):
+			    for u in usuarios:
+			        if username == u["nome"]:
+			            return u
+			    
+			    return False
+			        
+			@app.route('/processar_cadastro', methods=['GET'])
+			def processar_cadastro():
+			    if request.method == 'GET':
+			        nome = request.form.get('nome')
+			        data = request.form.get('data')
+			        email = request.form.get('email')
+			        senha = request.form.get('senha')
+			        codigo = request.form.get('codigo')
+			        
+			        usuarioRecebido = {
+			            "nome": nome,
+			            "data": data,
+			            "email": email,
+			            "senha": senha,
+			            "codigo": codigo
+			        }
+			        
+			        usuarios.append(usuarioRecebido)
+			
+			        
+			        return "1"
+			
+			@app.route('/autenticar', methods=['GET'])
+			def login():
+			    username = request.args.get('username')
+			    password = request.args.get('password')
+			    
+			    print(username,password)
+			    
+			    usuarioSelecionado = buscarUsuario(username)
+			
+			    if usuarioSelecionado != False and usuarioSelecionado["senha"] == password:
+			        return "1"
+			    else:
+			        return "0"
+			
+			if _name_ == '_main_':
+			    app.run('0.0.0.0', port=5000)
 
-
-2) Login
-          
-          from flask import Flask, request, render_template
-          
-          app = Flask(__name__)
-          
-          //Dicionário de usuários e senhas
-          usuarios = {
-              'ana': '123',
-              'leo': '369'
-          }
-          
-          @app.route('/autenticar', methods=['GET'])
-          def login():
-              username = request.args.get('username')
-              password = request.args.get('password')
-              
-              print(username,password)
-          
-              if username in usuarios and usuarios[username] == password:
-                  return "1"
-              else:
-                  return "0"
-          
-          if __name__ == '__main__':
-              app.run('0.0.0.0', port=5000)
-
-
-
+   
 <br> Como contribuir?
 
 Esse projeto está aberto para contribuições e Inovações que melhore o desenvolvimento para os usuário da área de saúde.
