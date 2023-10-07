@@ -23,11 +23,11 @@
 3.	Ambiente Integrado de Teste de Código:
 	
 •	Fornecer uma área de pesquisas contendo dados, informações de prontuários e especializações disponíveis no hospital atual.<br> 
-•	Incluir um informações em geral no banco de dado, para ser executado com sucesso e agilidade um atendimento.
+•	Incluir informações em geral no banco de dado, para ser executado com sucesso e agilidade um atendimento.
 
 4.	Plataforma Acessível em Computadores e Celulares:
    
- •	Criar uma interface gráfica utilizando o figma e o App Inventor que seja intuitiva e fácil de navegar;<br> 
+ •	Criar uma interface gráfica utilizando o figma e/ou no App Inventor que seja intuitiva e fácil de navegar;<br> 
  •	Garantir que a aplicação seja redimensionável e se adapte a diferentes tamanhos de tela;<br> 
  •	Garantir fácil acesso para pessoas com dificuldades ao manusear computadores.
 
