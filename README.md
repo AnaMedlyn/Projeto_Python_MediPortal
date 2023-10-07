@@ -82,7 +82,7 @@ LICENÇA
 
  <br> Checkout Funcional criado no App Inventor:
 
-1) Vemos na imagem abaixo a tela inicil que contém cadastro e login. 
+1) Vemos na imagem abaixo a tela inicial que contém cadastro e login. 
   
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/9059819d-e325-4fb5-ad9b-baa45582fa44" width="30%">
 
