@@ -64,11 +64,11 @@
 
  Este projeto está sob a licença https://exemplo.com/licenca.
     
-<br> Logo do software:
+<br> **Logo do software:**
 
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/f6be5f34-98da-4021-b7d8-771b4c1a102e" width="30%">
 
- <br> A seguir está a prototipação inicial feita para o projeto MediPortal no Figma.
+ <br> **A seguir está a prototipação inicial feita para o projeto MediPortal no Figma.**
   
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/d89a3a3d-b98d-4012-931a-a1b794edaea2" width="25%">
     
