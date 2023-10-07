@@ -177,7 +177,13 @@
 			if _name_ == '_main_':
 			    app.run('0.0.0.0', port=5000)
 
-   
+ # Idéias Futuras
+
+ 1. Desenvolver uma nova interface, dando mais viabilidade para o usuários;
+ 2. Adicionar outros campos de pesquisa de prontuario, bem como alguma especialidade específica ou algo que tenha que se destacar do paciente;
+ 3. Inserir uma parte do software para os pacientes, para que eles tenha acesso a exames, receitas e consultas.
+ 4. E idéias do público em geral que queira contribuir conosco.
+
 <br> **Como contribuir?**
 
 Esse projeto está aberto para contribuições e Inovações que melhore o desenvolvimento para os usuário da área de saúde.
