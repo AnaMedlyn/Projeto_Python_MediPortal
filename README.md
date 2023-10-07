@@ -2,12 +2,10 @@
 
 # DESCRIÇÃO
 
-  O Medi Portal é uma inovadora aplicação projetada especificamente para profissionais da saúde que possuem habilidades limitadas em informática. Esta plataforma foi desenvolvida para simplificar e agilizar o processo de atendimento médico, proporcionando uma maneira mais eficaz de acessar e gerenciar os prontuários dos pacientes.
-
-  O objetivo principal do Medi Portal é facilitar a vida de todos os profissionais de saúde, independentemente do seu nível de conhecimento em tecnologia. Ao centralizar as informações dos pacientes em um ambiente intuitivo e de fácil utilização, o Medi Portal torna a tarefa de acessar e atualizar prontuários uma experiência mais eficiente.
-
-  Com o Medi Portal, os profissionais de saúde podem contar com uma ferramenta que simplifica o fluxo de trabalho, permitindo-lhes concentrar-se no que realmente importa: a prestação de cuidados de alta qualidade aos pacientes. Esta aplicação é um valioso recurso para todos os envolvidos na área da saúde, tornando a gestão de informações médicas mais acessível e eficaz do que nunca.
-
+  MediPortal é uma aplicação destinada a profissionais da saúde que desejam atender melhor seus pacientes (público em geral), de forma prática, rápida, acessível e flexível.
+  
+  A aplicação oferece uma abordagem organizada para a elaboração históricos hospitalares, permitindo o arquivamento de maneira prática que pode ser utilizada a qualquer momento.
+  
  # REQUISITOS FUNCIONAIS 
  
 1.	Tarefa Interativas e Desafios Práticos:
