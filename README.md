@@ -110,7 +110,13 @@ LICENÇA
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/d58fa894-a8e0-47ab-9019-17710b3be786" width="80%">
 
 3) Login
+   
 <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/85eaba95-3a39-498a-bebf-755cbfd949da" width="80%">
+
+ <br> Para conseguir efetuar a conecção do App Inventor com o Thommy é necessário pegar o endereco de Ip (no CMD digite ipconfig e acesse seu endereço de IPV4):
+
+  <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/5da6c4f2-cad2-49c0-9764-5fdff130327e" width="60%">
+
 
 
  <br> Código criado no Thommy:
