@@ -1,4 +1,5 @@
-# Projeto_Python_MediPortal
+# Projeto_Python_MediPortal   <img src="https://github.com/AnaMedlyn/Projeto_Python_MediPortal/assets/134453403/809b3a41-bbb9-4595-b8ff-cbcb8f2e94ec" width="50px"> 
+
 
 # DESCRIÇÃO
 
